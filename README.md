@@ -8,8 +8,6 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<br>
-<br>
 <center>💡used at least once</center>
 <br>
 <br>
@@ -20,6 +18,6 @@
 </center>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wormsJJG&show_icons=true&theme=radical)
 
 
+![wormsJJG GitHub stats](https://github-readme-stats.vercel.app/api?username=wormsJJG&show_icons=true&theme=radical)
