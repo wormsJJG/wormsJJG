@@ -6,7 +6,7 @@
 </div>
 <br>
 <div align="center">
-  💡used as the Main
+  💡used as the ain
 </div>
 <br>
 <p align="center">
