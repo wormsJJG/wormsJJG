@@ -31,7 +31,7 @@
 </div>
 <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wormsJJG&layout=compact&theme=dark)](https://github.com/metleeha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wormsJJG&layout=compact&theme=dark)](https://github.com/wormsJJG)
 <br>
 <br>
 <div align="center">
